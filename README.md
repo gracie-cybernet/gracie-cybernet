@@ -22,7 +22,7 @@ This is my digital space to document, share, and evolve the IT projects I've bui
 ### Global Tech Inc. – Multi-Site Network Design
 > Designed a dual-site enterprise network in Cisco Packet Tracer using **RIP v2**, inter-VLAN routing via **multilayer switches**, and dual-ISP **failover**. Secured the setup using **SSH**, **ACLs**, and **wireless VLANs**.
 >
-> https://github.com/gracie-cybernet/global-tech-network-design
+
 
 ### Traction Solutions – Centralized Network Integration
 > Built a four-branch network integrating **VLANs**, centralized **DHCP**, and **RIP v2** routing. Deployed **QoS** for bandwidth-sensitive services and implemented secure, segmented wireless access across departments.
@@ -37,7 +37,7 @@ This is my digital space to document, share, and evolve the IT projects I've bui
 ### Windows Server Administration – Virtual Lab
 > Simulated an enterprise environment using **Windows Server 2019** on **VirtualBox**. Configured **Active Directory**, **DNS**, **DHCP**, and **Group Policy Objects (GPOs)** to enforce security and streamline access control.
 >
-> https://github.com/gracie-cybernet/windows-server-admin-lab
+
 
 
 More coming soon... Always learning.Always leveling up!
