@@ -76,4 +76,6 @@ Find me on:
 
 
 <a href="https://linkedin.com/in/grace-ehiem-558b3731a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Hey there! my Linkedin has been temporarily restricted, and I dont know why. Hopefully it will be up before the end of this week, apologies for any inconvenience this has caused.
  
